@@ -1,0 +1,2 @@
+# kruskals
+Minimum Spanning Tree
